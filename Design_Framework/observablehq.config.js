@@ -10,7 +10,7 @@ export default {
        name: "Pictures",
        pages: 
           [
-              {name: "Information Timeliness", path: "/src/pictures/information-timeliness"}
+              {name: "Information Timeliness Test 3", path: "pictures/information-timeliness"}
           ]
      }
    ],
@@ -28,7 +28,7 @@ export default {
   //   }
   // ],
 
-  // Content to add to the head of the page, e.g. for a favicon:
+  // Content to add to the head of the page, e.g. for a favicon: Change
   head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
 
   // The path to the source root.
