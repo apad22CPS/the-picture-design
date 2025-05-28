@@ -10,7 +10,7 @@ export default {
        name: "Pictures",
        pages: 
           [
-              {name: "Information Timeliness", path: "pictures/information-timeliness"}
+              {name: "Information Timeliness", path: "src/pictures/information-timeliness"}
           ]
      }
    ],
